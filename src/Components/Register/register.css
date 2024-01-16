@@ -1,0 +1,10 @@
+.test1::after{
+    position: absolute;
+    content: "";
+    width: 170px;
+    height: 2px;
+    background-color: white;
+    bottom: -6px;
+    left: -2px;
+
+}

@@ -1,0 +1,16 @@
+    @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&display=swap');
+
+body {
+background-color: #435585;
+color: white;
+font-family: 'Lora', serif;
+
+}
+input{
+    background-color: transparent !important;
+    color:white !important;
+}
+
+input::placeholder{
+    color: white !important;
+}
